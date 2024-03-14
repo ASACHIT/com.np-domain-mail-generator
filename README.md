@@ -4,6 +4,9 @@
 
 This project is a simple mail generator designed to streamline the domain registration process for the `.com.np` domain. It allows users to generate personalized emails for domain registration requests, tailored for both individual and business entities. The application is built with React
 
+![347shots_so](https://github.com/ASACHIT/com.np-domain-mail-generator/assets/73944456/49e44921-eba9-4e61-ac8a-e80c4ac662bb)
+
+
 ## Technologies Used
 
 - **React**: A popular JavaScript library for building user interfaces, particularly single-page applications.
